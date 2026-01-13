@@ -22,6 +22,9 @@ Exploring hardware networking, game modding, and automation.
   <a href="https://discord.js.org/" target="_blank"><img src="https://svgl.app/library/djs.svg" alt="Discord.JS" width="40" height="40"/></a>
 </p>
 
+<br>
+<br>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldenasf&theme=github_dark" width="700">
   <span>
@@ -29,3 +32,4 @@ Exploring hardware networking, game modding, and automation.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark" width="350" />
   </span>
 </p>
+
