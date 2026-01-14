@@ -1,4 +1,4 @@
-[![](./assets/github-header-banner_border.png)](https://aldenasf.vercel.app/)
+[![](./assets/github-header-banner_irl.png)](https://aldenasf.vercel.app/)
 
 Self-taught developer **since 2020** and currently a Software Engineering student. Building with TypeScript, Node.js, and Astro.
 Exploring hardware networking, game modding, and automation.
@@ -33,6 +33,7 @@ Exploring hardware networking, game modding, and automation.
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark" width="350" /></a>
   </div>
 </p>
+
 
 
 
