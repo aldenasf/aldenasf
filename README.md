@@ -3,7 +3,13 @@
 Software Engineering student from Indonesia. Building with TypeScript, Node.js, and Astro. 
 Exploring hardware networking, game modding, and automation.
 
-### 🚀 Tech Stack
+- 🎓 10th Grade Software Engineering (RPL) student at <a href="https://smkn1jenpo.sch.id/"><img src="https://www.smkn1jenpo.sch.id/wp-content/uploads/2025/04/cropped-20200722122858-logo.smk_.jenangan-270x270.png" alt="SMKN 1 Jenangan" width="22" height="22" align="center"> SMKN 1 Jenangan</a>
+
+<a href="https://aldenasf.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-ff6467?style=for-the-badge&logoColor=white" alt="Website">
+</a>
+
+### 🛠️ Language and Tools
 
 <p>
   <a href="https://nodejs.org/" target="_blank"><img src="https://svgl.app/library/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
@@ -32,5 +38,6 @@ Exploring hardware networking, game modding, and automation.
     <img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark" width="350" />
   </span>
 </p>
+
 
 
