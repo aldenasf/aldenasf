@@ -24,11 +24,12 @@ Exploring hardware networking, game modding, and automation.
 ### 📊 Statistics
 
 <p>
-  <div>
+  <div align="center">
     <img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/profile-details?username=aldenasf&theme=github_dark" width="700">
   </div>
-  <div>
+  <div align="center">
     <img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/stats?username=aldenasf&theme=github_dark" width="350" />
     <img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark" width="350" />
   </div>
 </p>
+
