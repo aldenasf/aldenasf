@@ -1,4 +1,4 @@
-[![](./assets/github-header-banner_border.png)](#)
+[![](./assets/github-header-banner_border.png)]()
 
 Self-taught developer **since 2020** and currently a Software Engineering student. Building with TypeScript, Node.js, and Astro.
 Exploring hardware networking, game modding, and automation.
@@ -25,11 +25,12 @@ Exploring hardware networking, game modding, and automation.
 
 <p>
   <div align="center">
-    <img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/profile-details?username=aldenasf&theme=github_dark" width="700">
+    <a href=""><img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/profile-details?username=aldenasf&theme=github_dark" width="700"></a>
   </div>
   <div align="center">
-    <img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/stats?username=aldenasf&theme=github_dark" width="350" />
-    <img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark" width="350" />
+    <a href=""><img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/stats?username=aldenasf&theme=github_dark" width="350" /></a>
+    <a href=""><img src="http://github-profile-summary-cards-alpha-steel.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark" width="350" /></a>
   </div>
 </p>
+
 
