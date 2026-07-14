@@ -1,4 +1,4 @@
-[![](./assets/github-header-banner_border.png)](https://aldenasf.vercel.app/)
+[![](./assets/github-header-banner_irl.png)](https://aldenasf.vercel.app/)
 
 Self-taught developer **since 2020** and currently a Software Engineering student. Building with TypeScript, Node.js, and Astro.
 Exploring hardware networking, game modding, and automation.
