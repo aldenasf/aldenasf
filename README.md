@@ -27,10 +27,10 @@ Exploring hardware networking, game modding, and automation.
 
 <p>
   <div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards-be1v6nook-aldenasf-projects.vercel.app/api/cards/profile-details?username=aldenasf&theme=github_dark&animation=stagger" width="700"></a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards-nine-ashy.vercel.app/api/cards/profile-details?username=aldenasf&theme=github_dark&animation=stagger" width="700"></a>
   </div>
   <div align="center">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards-be1v6nook-aldenasf-projects.vercel.app/api/cards/stats?username=aldenasf&theme=github_dark&animation=stagger" width="348" /></a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards-be1v6nook-aldenasf-projects.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark&animation=stagger" width="348" /></a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards-nine-ashy.vercel.app/api/cards/stats?username=aldenasf&theme=github_dark&animation=stagger" width="348" /></a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards-nine-ashy.vercel.app/api/cards/repos-per-language?username=aldenasf&theme=github_dark&animation=stagger" width="348" /></a>
   </div>
 </p>
