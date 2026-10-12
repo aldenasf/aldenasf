@@ -16,7 +16,7 @@ Exploring hardware networking, game modding, and automation.
 <a href="https://laravel.com/" target="_blank"><img src="https://svgl.app/library/laravel.svg" alt="Laravel" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" width="40" height="40"/></a>
 
-### 🛠️ Language and Tools
+### 🛠️ Languages and Tools
 
 <a href="https://nodejs.org/" target="_blank"><img src="https://svgl.app/library/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://svgl.app/library/python.svg" alt="Python" width="40" height="40"/></a>
